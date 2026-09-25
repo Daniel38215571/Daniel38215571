@@ -1,11 +1,4 @@
-from getpass import getpass
-import subprocess, os
-
-# Clone the profile repo
-!git clone https://github.com/Daniel38215571/Daniel38215571.git profile_repo
-%cd profile_repo
-
-readme = """# Daniel Ojo
+# Daniel Ojo
 
 **Data Analyst · Data Scientist · ML Engineer · Software Engineer**
 
@@ -66,9 +59,3 @@ Backend systems, APIs, and infrastructure.
 - Email: ojodaniel38@gmail.com
 - LinkedIn: [linkedin.com/in/daniel-ojo-879273197](https://linkedin.com/in/daniel-ojo-879273197)
 - Phone: +234 816 596 8440
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme)
-
-print("README.md written")
