@@ -29,7 +29,9 @@ EDUCATION
 PhD in Data Science — In Progress
 
 M.Sc. in Data Science — Northeastern University
+
 M.Sc. in Information Technology — University of the People
+
 B.Sc. in Accounting — Osun State University
 
 That progression was deliberate. Accounting taught me that every number must have a source and a counterparty. Data Science taught me how to find patterns in those numbers. Engineering taught me how to turn those patterns into systems that run in production.
