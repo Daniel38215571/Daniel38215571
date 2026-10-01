@@ -14,8 +14,52 @@
 ---
 
 ## About
+Data × AI × Software.
 
-M.Sc. Data Science (Northeastern) · M.Sc. Information Technology · B.Sc. Accounting. 5+ years building fintech and logistics systems. I turn messy operational data into auditable pipelines, transparent models, and decisions someone can defend.
+I build systems that prove themselves — every number traces to a source, every decision has a record.
+
+I'm a software engineer and data scientist with five years of experience building production systems in fintech, payments, and logistics. My work sits at the intersection of three disciplines:
+
+→ Software Engineering — backend services, APIs, distributed systems
+→ Data Science — analytics, statistical modeling, feature engineering
+→ Applied AI — LLM integration, fraud detection, explainability layers
+
+EDUCATION
+
+PhD in Data Science — In Progress
+
+M.Sc. in Data Science — Northeastern University
+M.Sc. in Information Technology — University of the People
+B.Sc. in Accounting — Osun State University
+
+That progression was deliberate. Accounting taught me that every number must have a source and a counterparty. Data Science taught me how to find patterns in those numbers. Engineering taught me how to turn those patterns into systems that run in production.
+
+WHAT I BUILD
+
+Payments infrastructure — idempotency, state machines, HMAC-verified webhooks, immutable audit trails.
+
+Reconciliation systems — O(n) matching engines, five classification statuses, value-at-risk reporting.
+
+AI systems — traceability-constrained LLM layers, fraud detection models with explainable scores.
+
+Five projects on GitHub. Two live. All tested.
+
+SELECTED WORK
+
+→ Payments API (live): payment-api-kwe9.onrender.com
+→ Reconciliation Engine: github.com/Daniel38215571/reconciliation-engine
+→ Reconciliation LLM Layer: github.com/Daniel38215571/reconciliation-llm-layer
+
+WHAT I CARE ABOUT
+
+The interesting engineering is not in the happy path. It is in the failure modes — the concurrent request, the invalid state transition, the empty input, the forged webhook. Systems that prove themselves are systems that handle what goes wrong.
+
+Traceability before intelligence. Explain a number you can already prove, not one you're hoping is right.
+
+Open to remote-first engineering and data science roles in fintech. Available immediately.
+
+Lagos, Nigeria (WAT/UTC+1).
+M.Sc. Data Science (Northeastern) · M.Sc. Information Technology · B.Sc. Accounting. 5+ years building fintech and logistics systems. I turn messy operational data into auditable pipelines, tran
 
 **Traceable data first. Intelligence second.**
 
