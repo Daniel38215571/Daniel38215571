@@ -4,7 +4,7 @@
 
 *Data x AI x Software*
 
-PhD Candidate · M.Sc. Data Science (Northeastern) · M.Sc. IT · B.Sc. Accounting
+Doctoral student· M.Sc. Data Science (Northeastern) · M.Sc. IT · B.Sc. Accounting
 
 I build systems that prove themselves — every number traces to a source, every decision has a record.
 
