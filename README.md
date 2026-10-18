@@ -58,7 +58,7 @@ Lagos, Nigeria (WAT/UTC+1). 5+ years building fintech and logistics systems. I t
 | [Toyota-FY2026-Executive-Disclosure-Dashboard](https://github.com/Daniel38215571/Toyota-FY2026-Executive-Disclosure-Dashboard) | Source-linked financial analysis and executive dashboard with KPI traceability and SEC filing citations. | Excel, Public Filings |
 | [operational-bottleneck-system](https://github.com/Daniel38215571/operational-bottleneck-system) | Logistics bottleneck intelligence using throughput, queue dynamics, and financial impact scoring. | Python, Excel |
 | [forensic-healthcare-billing-screen](https://github.com/Daniel38215571/forensic-healthcare-billing-screen) | Peer-group anomaly screening for healthcare billing. Hierarchical peer fallback, robust z-scores, composite screening score. 18 passing tests. | Python, pandas, Excel |
-| [Executive-Sales-Dashboard](https://github.com/Daniel38215571/Executive-Sales-Dashboard) | Executive sales dashboard with KPI traceability and pivot-table evidence. | Excel, pivot analysis |
+| [Executive-Sales-Dashboard-](https://github.com/Daniel38215571/Executive-Sales-Dashboard) | Executive sales dashboard with KPI traceability and pivot-table evidence. | Excel, pivot analysis |
 
 ## 🔬 Data Science
 
