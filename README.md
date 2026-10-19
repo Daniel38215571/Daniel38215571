@@ -34,6 +34,7 @@ That progression was deliberate. Accounting taught me that every number must hav
 Eight projects on GitHub. Two live. All tested.
 
 **SELECTED WORK**
+
 → Payments API (live): https://payment-api-kwe9.onrender.com/docs
 
 → Fraud Detection Engine (live): https://fraud-detection-engine-z4vn.onrender.com/docs
