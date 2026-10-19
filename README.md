@@ -73,9 +73,9 @@ Notebook-based exploratory and modeling work — migration in progress.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [fraud-detection-engine](https://github.com/Daniel38215571/fraud-detection-engine) | Real-time fraud detection API. Uses 5 interpretable signals (amount, velocity, geo-velocity, time, merchant novelty) and a Random Forest to return a risk score plus the exact reasons driving it. Documents known limitations (e.g., velocity-burst blind spot). | Python, scikit-learn, FastAPI |
+| [fraud-detection-engine](https://github.com/Daniel38215571/fraud-detection-engine) | Real-time fraud detection API. Uses 5 interpretable signals (amount, velocity, geo-velocity, time, merchant novelty) and a Random Forest to return a risk score plus the exact reasons driving it. | Python, scikit-learn, FastAPI |
+| [lstm-fraud-detection](https://github.com/Daniel38215571/lstm-fraud-detection) | Experimental sequence-based deep learning model for fraud detection. Uses an LSTM to analyze the temporal sequence of a user's last 10 transactions to spot fraud patterns over time. | Python, TensorFlow, Keras |
 | [reconciliation-llm-layer](https://github.com/Daniel38215571/reconciliation-llm-layer) | Traceability-constrained LLM narration over reconciliation output. Uses Pydantic to strictly limit the AI to only the numbers provided in the input. | Python, FastAPI, Gemini |
-
 ## 🛠 Software Engineering
 
 | Project | What it does | Stack |
