@@ -35,8 +35,11 @@ Eight projects on GitHub. Two live. All tested.
 
 **SELECTED WORK**
 → Payments API (live): https://payment-api-kwe9.onrender.com/docs
+
 → Fraud Detection Engine (live): https://fraud-detection-engine-z4vn.onrender.com/docs
+
 → Reconciliation LLM Layer (live): https://reconciliation-llm-layer.onrender.com/docs
+
 → Reconciliation Engine: https://github.com/Daniel38215571/reconciliation-engine
 
 **WHAT I CARE ABOUT**
