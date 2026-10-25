@@ -113,6 +113,6 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 ## WHAT I CARE ABOUT
 The interesting engineering is not in the happy path. It is in the failure modes — the concurrent request, the invalid state transition, the empty input, the forged webhook. Systems that prove themselves are systems that handle what goes wrong.
 
-Open to remote-first engineering and data science roles in fintech. Available immediately.
+Open to remote-first financial engineering, Data Science, Machine Learning, and analytics roles. Available immediately.
 
 Lagos, Nigeria (WAT/UTC+1). Building fintech and logistics systems since 2018. I turn messy operational data into auditable pipelines, transparent models, and decisions someone can defend.
