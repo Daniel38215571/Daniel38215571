@@ -74,7 +74,7 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 | Project | Business Impact | Stack |
 | :--- | :--- | :--- |
 | **[neon-drift-game](https://github.com/Daniel38215571/neon-drift-game)** | High-performance 3D browser game built from scratch. Features real-time collision detection, particle physics, object pooling for memory management, and a custom delta-time game loop. | JavaScript, Three.js, WebGL, Vercel |
-|| **[credit-risk-dashboard](https://github.com/Daniel38215571/credit-risk-dashboard)** | Executive React frontend for the Credit Risk Engine. Visualizes Expected Loss forecasts with 90% confidence intervals via Recharts. **[Live Demo](https://credit-risk-dashboard-ui.vercel.app)** | React, Vite, Recharts, Vercel |
+| **[credit-risk-dashboard](https://github.com/Daniel38215571/credit-risk-dashboard)** | Executive React frontend for the Credit Risk Engine. Visualizes Expected Loss forecasts with 90% confidence intervals via Recharts. **[Live Demo](https://credit-risk-dashboard-ui.vercel.app)** | React, Vite, Recharts, Vercel |
 
 ## 💻 Enterprise Tech Stack
 
