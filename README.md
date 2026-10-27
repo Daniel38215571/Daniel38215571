@@ -1,4 +1,4 @@
-# Daniel Ojo
+i# Daniel Ojo
 
 **Senior Data Analyst | Data & AI Engineer | Evidence-Traceable BI, Machine Learning & Software Engineering**
 
@@ -16,7 +16,7 @@ I build systems that prove themselves — every number traces to a source, every
 - **[Fraud Detection Engine](https://fraud-detection-engine-z4vn.onrender.com/docs)**
 - **[Reconciliation LLM Layer](https://reconciliation-llm-layer.onrender.com/docs)**
 - **[Neon Drift 3D Game](https://neon-drift-game-amber.vercel.app/)**
-- **[Credit Risk Dashboard](https://credit-risk-dashboard-xxx.vercel.app)**
+- **[Credit Risk Dashboard (React UI)](https://credit-risk-dashboard-ui.vercel.app)**
 ---
 
 ## The Thesis
@@ -40,13 +40,15 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 | Project | Business Impact | Stack |
 | :--- | :--- | :--- |
 | **[credit-risk-forecasting-engine](https://github.com/Daniel38215571/credit-risk-forecasting-engine)** | **The Business Question:** *"How much money will we lose next quarter, and what is our risk tolerance?"*<br><br>Built a system that calculates Expected Loss (PD × LGD) with 90% confidence intervals. Uses rolling-origin backtesting and asymmetric cost functions to output a "Safe Capital Reserve." Features a Rust inference engine for sub-10ms latency. | SQL, Python, XGBoost, Rust, statsmodels |
-| | **[credit-risk-dashboard](https://github.com/Daniel38215571/credit-risk-dashboard)** | Executive React frontend for the Credit Risk Engine. Visualizes Expected Loss forecasts with 90% confidence intervals via Recharts. | React, Vite, Recharts, Vercel |
+| **[credit-risk-dashboard](https://github.com/Daniel38215571/credit-risk-dashboard)** | Executive React frontend for the Credit Risk Engine. Visualizes Expected Loss forecasts with 90% confidence intervals via Recharts. | React, Vite, Recharts, Vercel |
+
 
 ### 🤖 AI Engineering & LLMs
 | Project | Business Impact | Stack |
 | :--- | :--- | :--- |
 | **[Enterprise-RAG-pipeline](https://github.com/Daniel38215571/Enterprise-RAG-pipeline)** | Production-grade RAG system with hybrid search, access-control-aware retrieval, and prompt-injection defenses. Features a custom evaluation harness and canary deployments to prevent stale data. | Python, Vector DB, LLMs, FastAPI |
 | **[reconciliation-llm-layer](https://github.com/Daniel38215571/reconciliation-llm-layer)** | Traceability-constrained LLM narration. Uses Pydantic to strictly limit the AI to only the numbers provided in the input, eliminating hallucinations in financial reporting. | Python, FastAPI, Gemini |
+
 
 ### 📊 Data Analysis, BI & Advanced SQL
 | Project | Business Impact | Stack |
@@ -58,6 +60,7 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 | **[operational-bottleneck-system](https://github.com/Daniel38215571/operational-bottleneck-system)** | Logistics bottleneck intelligence using throughput, queue dynamics, and financial impact scoring. | Python, Excel |
 | **[forensic-healthcare-billing-screen](https://github.com/Daniel38215571/forensic-healthcare-billing-screen)** | Peer-group anomaly screening for healthcare billing. Hierarchical peer fallback, robust z-scores, composite screening score. 18 passing tests. | Python, pandas, Excel |
 
+
 ### ⚙️ Backend & Data Infrastructure
 | Project | Business Impact | Stack |
 | :--- | :--- | :--- |
@@ -66,11 +69,12 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 | **[fraud-detection-engine](https://github.com/Daniel38215571/fraud-detection-engine)** | Real-time API scoring transactions with calibrated thresholds. Built an explainability layer (SHAP) ensuring every decision can be audited and defended to compliance teams. | Python, scikit-learn, FastAPI |
 | **[lstm-fraud-detection](https://github.com/Daniel38215571/lstm-fraud-detection)** | Experimental sequence-based deep learning model for fraud detection. Analyzes the temporal sequence of a user's last 10 transactions to spot patterns over time. | Python, TensorFlow, Keras |
 
-### 🎨 Frontend, WebGL & Games
+
+### 🌐 Full-Stack Interfaces & WebGL
 | Project | Business Impact | Stack |
 | :--- | :--- | :--- |
 | **[neon-drift-game](https://github.com/Daniel38215571/neon-drift-game)** | High-performance 3D browser game built from scratch. Features real-time collision detection, particle physics, object pooling for memory management, and a custom delta-time game loop. | JavaScript, Three.js, WebGL, Vercel |
-|| **[credit-risk-dashboard](https://github.com/Daniel38215571/credit-risk-dashboard)** | Executive React frontend for the Credit Risk Engine. Visualizes Expected Loss forecasts with 90% confidence intervals via Recharts. **[Live Demo](https://credit-risk-dashboard-xxx.vercel.app.)** | React, Vite, Recharts, Vercel |
+|| **[credit-risk-dashboard](https://github.com/Daniel38215571/credit-risk-dashboard)** | Executive React frontend for the Credit Risk Engine. Visualizes Expected Loss forecasts with 90% confidence intervals via Recharts. **[Live Demo](https://credit-risk-dashboard-ui.vercel.app)** | React, Vite, Recharts, Vercel |
 
 ## 💻 Enterprise Tech Stack
 
