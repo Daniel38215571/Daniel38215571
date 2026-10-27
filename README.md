@@ -16,7 +16,7 @@ I build systems that prove themselves — every number traces to a source, every
 - **[Fraud Detection Engine](https://fraud-detection-engine-z4vn.onrender.com/docs)**
 - **[Reconciliation LLM Layer](https://reconciliation-llm-layer.onrender.com/docs)**
 - **[Neon Drift 3D Game](https://neon-drift-game-amber.vercel.app/)**
-
+- **[Credit Risk Dashboard](https://credit-risk-dashboard-xxx.vercel.app)**
 ---
 
 ## The Thesis
@@ -40,6 +40,7 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 | Project | Business Impact | Stack |
 | :--- | :--- | :--- |
 | **[credit-risk-forecasting-engine](https://github.com/Daniel38215571/credit-risk-forecasting-engine)** | **The Business Question:** *"How much money will we lose next quarter, and what is our risk tolerance?"*<br><br>Built a system that calculates Expected Loss (PD × LGD) with 90% confidence intervals. Uses rolling-origin backtesting and asymmetric cost functions to output a "Safe Capital Reserve." Features a Rust inference engine for sub-10ms latency. | SQL, Python, XGBoost, Rust, statsmodels |
+| | **[credit-risk-dashboard](https://github.com/Daniel38215571/credit-risk-dashboard)** | Executive React frontend for the Credit Risk Engine. Visualizes Expected Loss forecasts with 90% confidence intervals via Recharts. | React, Vite, Recharts, Vercel |
 
 ### 🤖 AI Engineering & LLMs
 | Project | Business Impact | Stack |
@@ -69,8 +70,7 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 | Project | Business Impact | Stack |
 | :--- | :--- | :--- |
 | **[neon-drift-game](https://github.com/Daniel38215571/neon-drift-game)** | High-performance 3D browser game built from scratch. Features real-time collision detection, particle physics, object pooling for memory management, and a custom delta-time game loop. | JavaScript, Three.js, WebGL, Vercel |
-
----
+|| **[credit-risk-dashboard](https://github.com/Daniel38215571/credit-risk-dashboard)** | Executive React frontend for the Credit Risk Engine. Visualizes Expected Loss forecasts with 90% confidence intervals via Recharts. **[Live Demo](https://credit-risk-dashboard-xxx.vercel.app.)** | React, Vite, Recharts, Vercel |
 
 ## 💻 Enterprise Tech Stack
 
@@ -80,6 +80,7 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Data Science, ML & AI**
 ![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white)
