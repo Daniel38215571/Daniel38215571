@@ -1,4 +1,4 @@
-i# Daniel Ojo
+# Daniel Ojo
 
 **Senior Data Analyst | Data & AI Engineer | Evidence-Traceable BI, Machine Learning & Software Engineering**
 
@@ -64,6 +64,7 @@ Today, I operate at the intersection of Data Science, AI Engineering, and Softwa
 ### ⚙️ Backend & Data Infrastructure
 | Project | Business Impact | Stack |
 | :--- | :--- | :--- |
+| **[frontierswe-rate-limiter](https://github.com/Daniel38215571/frontierswe-rate-limiter)** | Principal-level AI evaluation task requiring a high-concurrency distributed rate limiter. Proves race condition mitigation (20 concurrent requests bypassing a limit of 5) and verifies atomic fixes. | Rust, Python, FastAPI |
 | **[payment-api](https://github.com/Daniel38215571/payment-api)** | Production-grade, event-sourced ledger with double-entry accounting and immutable audit trails. Handles idempotent payments, state machines, and HMAC-verified webhooks. | Python, FastAPI, SQLAlchemy, PostgreSQL |
 | **[reconciliation-engine](https://github.com/Daniel38215571/reconciliation-engine)** | O(n) transaction reconciliation engine. Hash-map matching, five-status classification, and value-at-risk reporting for high-volume settlement files. | Python, FastAPI, pytest |
 | **[fraud-detection-engine](https://github.com/Daniel38215571/fraud-detection-engine)** | Real-time API scoring transactions with calibrated thresholds. Built an explainability layer (SHAP) ensuring every decision can be audited and defended to compliance teams. | Python, scikit-learn, FastAPI |
